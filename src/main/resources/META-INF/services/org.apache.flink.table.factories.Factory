@@ -1,0 +1,4 @@
+com.github.knaufk.flink.faker.FlinkFakerTableSourceFactory
+com.hc.redis.v2.RedisDynamicTableFactory
+com.hc.socket.SocketDynamicTableFactory
+com.hc.formats.protobuf.rowdata.ProtobufFormatFactory
