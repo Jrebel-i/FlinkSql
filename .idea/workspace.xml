@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.13.3/flink-streaming-java_2.11-1.13.3-sources.jar!/org/apache/flink/streaming/api/operators/SourceOperator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="293" selection-start-line="293" selection-end-line="293" />
+            <state relative-caret-position="372">
+              <caret line="300" column="5" selection-start-line="300" selection-start-column="5" selection-end-line="300" selection-end-column="5" />
               <folding>
                 <element signature="e#8465#8466#0" expanded="true" />
                 <element signature="e#8533#8534#0" expanded="true" />
@@ -43,7 +43,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/com/ververica/flink-connector-mysql-cdc/2.1.0/flink-connector-mysql-cdc-2.1.0-sources.jar!/com/ververica/cdc/connectors/mysql/source/reader/MySqlSourceReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
+            <state relative-caret-position="1950">
               <caret line="137" selection-start-line="137" selection-end-line="137" />
             </state>
           </provider>
@@ -52,71 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/com/ververica/flink-connector-mysql-cdc/2.1.0/flink-connector-mysql-cdc-2.1.0-sources.jar!/com/ververica/cdc/connectors/mysql/source/assigners/MySqlHybridSplitAssigner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
+            <state relative-caret-position="1700">
               <caret line="105" selection-start-line="105" selection-end-line="105" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.13.3/flink-streaming-java_2.11-1.13.3-sources.jar!/org/apache/flink/streaming/runtime/io/StreamOneInputProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.13.3/flink-streaming-java_2.11-1.13.3-sources.jar!/org/apache/flink/streaming/runtime/tasks/StreamTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="422" selection-start-line="422" selection-end-line="422" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.13.3/flink-streaming-java_2.11-1.13.3-sources.jar!/org/apache/flink/streaming/runtime/tasks/mailbox/MailboxProcessor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="203" selection-start-line="203" selection-end-line="203" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/SingleThreadFetcherManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="84" selection-start-line="84" selection-end-line="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/SplitFetcher.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="125" selection-start-line="125" selection-end-line="125" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/FetchTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/AddSplitsTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -276,11 +213,10 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-147" />
-    <option name="y" value="291" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="55" />
     <option name="width" value="1936" />
-    <option name="height" value="881" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectId" id="21S6bYpSFLgAQwJHZvS7E10USka" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -289,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -311,6 +246,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -320,7 +256,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1649336407861" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1649682240654" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/学习相关/OwnFile/Flink CDC/flink-cdc-connectors" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -505,7 +441,9 @@
       <workItem from="1646896684528" duration="223000" />
       <workItem from="1647161651472" duration="1430000" />
       <workItem from="1647834867975" duration="40000" />
-      <workItem from="1649225732708" duration="13050000" />
+      <workItem from="1649225732708" duration="21684000" />
+      <workItem from="1649728908067" duration="582000" />
+      <workItem from="1649991416098" duration="2400000" />
     </task>
     <task id="LOCAL-00001" summary="xx">
       <created>1644411812319</created>
@@ -560,7 +498,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="300329000" />
+    <option name="totallyTimeSpent" value="311945000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -572,21 +510,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49557522" visible="true" weight="0.23720682" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49473685" visible="true" weight="0.24253732" />
       <window_info id="Structure" order="1" sideWeight="0.5021692" side_tool="true" weight="0.22068231" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="aws.explorer" order="4" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="6" />
-      <window_info id="Favorites" order="7" sideWeight="0.50530034" side_tool="true" weight="0.23720682" />
+      <window_info id="Favorites" order="7" sideWeight="0.50526315" side_tool="true" weight="0.23720682" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32719395" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.65245205" weight="0.345987" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.7345416" visible="true" weight="0.30911064" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.7345416" visible="true" weight="0.38177875" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946696" weight="0.3275488" />
@@ -627,12 +565,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/SingleThreadFetcherManager.java</url>
-          <line>84</line>
-          <properties />
-          <option name="timeStamp" value="123" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/com/ververica/flink-connector-mysql-cdc/2.1.0/flink-connector-mysql-cdc-2.1.0-sources.jar!/com/ververica/cdc/connectors/mysql/source/assigners/MySqlHybridSplitAssigner.java</url>
           <line>105</line>
           <properties />
@@ -643,30 +575,6 @@
           <line>137</line>
           <properties />
           <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/SplitFetcher.java</url>
-          <line>125</line>
-          <properties />
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/FetchTask.java</url>
-          <line>54</line>
-          <properties />
-          <option name="timeStamp" value="129" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/AddSplitsTask.java</url>
-          <line>45</line>
-          <properties />
-          <option name="timeStamp" value="130" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.13.3/flink-streaming-java_2.11-1.13.3-sources.jar!/org/apache/flink/streaming/api/operators/SourceOperator.java</url>
-          <line>338</line>
-          <properties />
-          <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.13.3/flink-streaming-java_2.11-1.13.3-sources.jar!/org/apache/flink/streaming/api/operators/SourceOperator.java</url>
@@ -915,31 +823,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.13.3/flink-core-1.13.3-sources.jar!/org/apache/flink/api/connector/source/SourceReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/SplitFetcherManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="140" column="25" selection-start-line="140" selection-start-column="25" selection-end-line="140" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/ververica/flink-connector-mysql-cdc/2.1.0/flink-connector-mysql-cdc-2.1.0-sources.jar!/com/ververica/cdc/connectors/mysql/source/MySqlSource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="534">
           <caret line="176" selection-start-line="176" selection-end-line="176" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hudi/hudi-flink-bundle_2.11/0.10.0/hudi-flink-bundle_2.11-0.10.0-sources.jar!/org/apache/hadoop/hive/ql/exec/FetchTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
@@ -978,13 +865,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/SourceReaderBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="226" selection-start-line="226" selection-end-line="226" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-runtime_2.11/1.13.3/flink-runtime_2.11-1.13.3-sources.jar!/org/apache/flink/runtime/taskmanager/Task.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -1006,6 +886,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.13.3/flink-core-1.13.3-sources.jar!/org/apache/flink/api/connector/source/SourceReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="90" column="9" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/SplitFetcherManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="140" column="25" selection-start-line="140" selection-start-column="25" selection-end-line="140" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/FetchTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-206">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/hudi/hudi-flink-bundle_2.11/0.10.0/hudi-flink-bundle_2.11-0.10.0-sources.jar!/org/apache/hadoop/hive/ql/exec/FetchTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/AddSplitsTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/SplitFetcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="171" column="31" selection-start-line="171" selection-start-column="31" selection-end-line="171" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/SingleThreadFetcherManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="83" column="27" lean-forward="true" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/SourceReaderBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.13.3/flink-streaming-java_2.11-1.13.3-sources.jar!/org/apache/flink/streaming/runtime/io/StreamTaskSourceInput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
@@ -1015,8 +951,15 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.13.3/flink-streaming-java_2.11-1.13.3-sources.jar!/org/apache/flink/streaming/runtime/io/StreamOneInputProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="397">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.13.3/flink-streaming-java_2.11-1.13.3-sources.jar!/org/apache/flink/streaming/runtime/tasks/StreamTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="444" selection-start-line="444" selection-end-line="444" />
         </state>
       </provider>
     </entry>
@@ -1027,63 +970,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.13.3/flink-streaming-java_2.11-1.13.3-sources.jar!/org/apache/flink/streaming/runtime/tasks/StreamTask.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.13.3/flink-streaming-java_2.11-1.13.3-sources.jar!/org/apache/flink/streaming/api/operators/SourceOperator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="422" selection-start-line="422" selection-end-line="422" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/AddSplitsTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/SplitFetcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/FetchTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-base/1.13.3/flink-connector-base-1.13.3-sources.jar!/org/apache/flink/connector/base/source/reader/fetcher/SingleThreadFetcherManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        <state relative-caret-position="372">
+          <caret line="300" column="5" selection-start-line="300" selection-start-column="5" selection-end-line="300" selection-end-column="5" />
+          <folding>
+            <element signature="e#8465#8466#0" expanded="true" />
+            <element signature="e#8533#8534#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/ververica/flink-connector-mysql-cdc/2.1.0/flink-connector-mysql-cdc-2.1.0-sources.jar!/com/ververica/cdc/connectors/mysql/source/reader/MySqlSourceReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
+        <state relative-caret-position="1950">
           <caret line="137" selection-start-line="137" selection-end-line="137" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/ververica/flink-connector-mysql-cdc/2.1.0/flink-connector-mysql-cdc-2.1.0-sources.jar!/com/ververica/cdc/connectors/mysql/source/assigners/MySqlHybridSplitAssigner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="1700">
           <caret line="105" selection-start-line="105" selection-end-line="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.13.3/flink-streaming-java_2.11-1.13.3-sources.jar!/org/apache/flink/streaming/api/operators/SourceOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="293" selection-start-line="293" selection-end-line="293" />
-          <folding>
-            <element signature="e#8465#8466#0" expanded="true" />
-            <element signature="e#8533#8534#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
